@@ -1,3 +1,4 @@
 secretfile filter=git-crypt diff=git-crypt
 *.jks filter=git-crypt diff=git-crypt
 keystore.properties filter=git-crypt diff=git-crypt
+*.secret filter=git-crypt diff=git-crypt
